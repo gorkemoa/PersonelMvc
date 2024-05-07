@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CoreDbMvc
+build_property.RootNamespace = CoreDbMvc
+build_property.ProjectDir = /Users/oyun/Projects/CoreDbMvc/CoreDbMvc/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/oyun/Projects/CoreDbMvc/CoreDbMvc
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/oyun/Projects/CoreDbMvc/CoreDbMvc/Views/Depart/depart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0L2RlcGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/oyun/Projects/CoreDbMvc/CoreDbMvc/Views/Depart/DepartmanGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0L0RlcGFydG1hbkdldGlyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/oyun/Projects/CoreDbMvc/CoreDbMvc/Views/Depart/YeniDepartman.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0L1llbmlEZXBhcnRtYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/oyun/Projects/CoreDbMvc/CoreDbMvc/Views/Personel/Personel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uZWwvUGVyc29uZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/oyun/Projects/CoreDbMvc/CoreDbMvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/oyun/Projects/CoreDbMvc/CoreDbMvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/oyun/Projects/CoreDbMvc/CoreDbMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/oyun/Projects/CoreDbMvc/CoreDbMvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/oyun/Projects/CoreDbMvc/CoreDbMvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

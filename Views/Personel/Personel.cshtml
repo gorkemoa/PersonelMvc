@@ -1,0 +1,31 @@
+﻿@using CoreDbMvc.Models
+@model List<Personel>
+
+<br />
+<table class="table table-striped">
+    <tr>
+        <th>ID</th>
+        <th>Ad</th>
+        <th>Soyad</th>
+        <th>Şehir</th>
+        <th>Departman</th>
+        <th>Sil</th>    
+        <th>Güncelle</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Ad</td>
+            <td>@item.Soyad</td>
+            <th>@item.Sehir</th>
+            <th>@item.DepartId</th>
+            <td><a href="~/depart/DepartmanSil/@item.Id" class="btn btn-danger">Sil</a></td>
+            <td><a href="~/depart/DepartmanGetir/@item.Id" class="btn btn-success">Güncelle</a></td>
+           @*<td><a href="#" class="btn btn-default" style="background-color:aliceblue">Detaylar</a></td>*@
+        </tr>
+
+    }
+
+</table>
+<a asp-action="YeniDepartman" asp-controller="Depart" class=" btn btn-primary">Yeni Personel</a>

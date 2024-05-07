@@ -1,0 +1,15 @@
+﻿@model CoreDbMvc.Models.Departmanlar
+<br />
+
+<h2>Departman Getir</h2>
+
+@using (Html.BeginForm("DepartmanGuncelle", "Depart", FormMethod.Post))
+{
+   <b>Departman Id</b>
+    @Html.TextBoxFor(x => x.Id, new { @class = "form-control" })
+    <br />
+    <b>Departman Adı</b>
+    @Html.TextBoxFor(x => x.DepartmanAd, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-info">Departman Güncelle</button>
+}
